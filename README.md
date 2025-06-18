@@ -51,13 +51,14 @@ git remote add origin (linka com o GitHub)
 git push -u origin main (manda pro GitHub)
 
 **Resumo da minha estrutura:**
+
 pgsql
 Copiar
 Editar
 meu-site/
 ├── index.html 
 ├── sobre.html 
-├── imagens/ 🖼
+├── imagens/
 │   └── foto.png 
 
 **O que aprendi:**
