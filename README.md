@@ -1,15 +1,15 @@
 **Entendendo o HTML:**
-<html> → É a casinha do site, tudo mora aqui.
+html → É a casinha do site, tudo mora aqui.
 
-<head> → Cabeça do site, guarda informações como título, links de CSS, configurações.
+head → Cabeça do site, guarda informações como título, links de CSS, configurações.
 
-<body> → O corpão do site, tudo que aparece pra quem vê.
+body → O corpão do site, tudo que aparece pra quem vê.
 
-<h1> → Título grandão (principal).
+h1 → Título grandão (principal).
 
-<h2>, <h3>, ... → Subtítulos, tipo tópicos e subtópicos.
+h2, h3, ... → Subtítulos, tipo tópicos e subtópicos.
 
-<p> → Parágrafo, pra escrever textos.
+p → Parágrafo, pra escrever textos.
 
 ! + Tab no VSCode → Cria a estrutura básica de um site na hora. MÁGICA. 🪄
 
