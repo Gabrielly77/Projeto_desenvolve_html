@@ -1,5 +1,8 @@
 **Entendendo o HTML:**
 
+![retro-retro-disco](https://github.com/user-attachments/assets/0353d4d5-3e2c-4eab-a1a1-79d5095dd03f)
+
+
 
 html → É a casinha do site, tudo mora aqui.
 
