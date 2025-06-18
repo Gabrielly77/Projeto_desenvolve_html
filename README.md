@@ -1,4 +1,6 @@
 **Entendendo o HTML:**
+
+
 html → É a casinha do site, tudo mora aqui.
 
 head → Cabeça do site, guarda informações como título, links de CSS, configurações.
